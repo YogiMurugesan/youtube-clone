@@ -4,9 +4,15 @@ input{
 }
 .tham{
     width: 400px;
+    height: 250px;
     border-radius: 10px;
     
 }
 .pcon{
     width: 400px;
+}
+.vprev{
+    width: 400px;
+    display: inline-block;
+    margin: 10px;
 }
