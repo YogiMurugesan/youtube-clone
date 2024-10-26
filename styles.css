@@ -2,8 +2,8 @@ p{
     margin: 0%;
     font-family: "roboto",Arial;
 }
-input{
-    display: block;
-    margin-bottom: 10px;
+body{
+    margin: 0;
+    margin-bottom: 1000px;
 }
 
