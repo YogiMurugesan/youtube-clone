@@ -1,0 +1,26 @@
+.thumbnail{
+    width: 100%;
+    border-radius: 15px;
+}
+.video-title{
+    font-weight:600;
+    margin-bottom: 10px;
+}
+.channel-name,.views{
+    color: grey;
+}
+.icon{
+    width: 50px;
+    border-radius: 100%;
+}
+.video-details{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    column-gap: 5px;
+}
+.video-row{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 10px;
+}
