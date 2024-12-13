@@ -169,7 +169,6 @@
     }
     
     .body-contaier {
-        display: grid;
         display: flex;
         position: fixed;
         height: calc(100vh - 60px);
